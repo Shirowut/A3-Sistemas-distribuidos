@@ -1,5 +1,13 @@
 # A3-Sistemas-distribuidos
-Projeto da A3 da UC de sistemas distribuídos
+Projeto da A3 da UC de sistemas distribuídos e mobile
+
+### Grupo:
+- Gabriel Barros Lucena, **RA:** 12524111262
+- Juan Julio Deodato, **RA:** 12522213811
+- Rafael Stender Rocha, **RA:** 12524117225
+- Renan Gabriel de Abreu, **RA:** 12524145023
+- Sérgio Borges da Silva, **RA:** 12522210037
+
 # Projeto A3 - Sistema Bancário Simples com Alertas de Segurança
 
 Este projeto foi desenvolvido como trabalho acadêmico para a disciplina de **Sistemas Distribuídos e Mobile**.  
